@@ -1,1 +1,0 @@
-# New-Python-Tool-for-Reading-Nokia-2G-XML-Dumps
